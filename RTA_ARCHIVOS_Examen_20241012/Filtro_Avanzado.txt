@@ -1,0 +1,4 @@
+Mi IP Publica es: 190.172.80.133
+Mi usuario es: vagrant
+El Hash de mi usuario es: $y$j9T$8M7CprS6ixq4ZY6UzMLlp/$2zfhWc5fHkU50WmFt0GTTTT7IiZzWNLETtDJiD6NGB6
+El URL de mi repositorio es: git@github.com:lionelgonzalo/UTNFRA_SO_1P2C_2024_Millicay.git
